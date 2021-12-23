@@ -8,7 +8,7 @@ export const DEFAULT_LOCALE = {
   more: 'More'
 }
 
-export const DEFAULT_TOOLTIP_UNIT = 'contributions'
+export const DEFAULT_TOOLTIP_UNIT = 'Hours'
 
 export const DAYS_IN_ONE_YEAR = 365
 
